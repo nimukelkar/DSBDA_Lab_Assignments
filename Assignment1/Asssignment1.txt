@@ -1,0 +1,11 @@
+Problem Statement:Perform the following operations on any open source dataset.
+
+1. Import all the required Python libraries.
+2. Locate an open source data from the web.Provide a clear decription of the data and its source.
+3.Load the dataset into pandas data frame.
+4.Data preprocessing.
+Data formatting and normailzation.
+5.Turn categorical variables into quantitative variables.
+Explain all steps.
+
+
