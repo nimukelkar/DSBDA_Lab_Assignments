@@ -1,0 +1,7 @@
+Create an academic performance dataset of students and perform the following operations.
+
+1.Scan all variables for missing values and inconsistencies.Remove them
+
+2. Scan for outliers.Remove them
+
+3.Apply data transformation on one variable.Decrease kurtosis and convert into a normal distribution
