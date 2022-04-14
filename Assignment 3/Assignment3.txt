@@ -1,0 +1,5 @@
+Descriptive Statistics.
+
+1.Provide summary for a datset with numeric variables grouped by categorical variables.
+
+2.Display basic statistics on iris dataset.
