@@ -1,0 +1,6 @@
+On Iris Dataset perform the following:-
+
+1. List down the features and their types(numeric, nominal).
+2. Create a histogram for each feature in the dataset.
+3. Create a boxplot for each feature in the dataset.
+4. Compare distributions and identify the outliers.
