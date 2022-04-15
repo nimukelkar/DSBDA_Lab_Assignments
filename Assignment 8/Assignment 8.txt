@@ -1,0 +1,5 @@
+Use titanic dataset.
+
+Use seaborn to see if patterns can be found.
+
+2. Write a code to check how price  is distributed for each passenger by plotting histogram.
