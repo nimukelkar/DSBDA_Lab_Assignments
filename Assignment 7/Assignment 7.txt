@@ -1,4 +1,0 @@
-Extract sample document and apply following preprocessing:
-Tokenization, POS Tagging, stop words removal, Stemming and Lematization.
-
-2. Create representation of doc by calculating Term Frequency and Inverse Document Frequency.
